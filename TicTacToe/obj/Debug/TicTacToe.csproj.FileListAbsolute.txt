@@ -1,0 +1,9 @@
+C:\Users\serga\Desktop\TicTocToe-master\TicTacToe_game\obj\Debug\TicTacToe.csprojAssemblyReference.cache
+C:\Users\serga\Desktop\TicTocToe-master\TicTacToe_game\obj\Debug\TicTacToe_game.Properties.Resources.resources
+C:\Users\serga\Desktop\TicTocToe-master\TicTacToe_game\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\serga\Desktop\TicTocToe-master\TicTacToe_game\obj\Debug\TicTacToe_game.exe
+C:\Users\serga\Desktop\TicTocToe-master\TicTacToe_game\obj\Debug\TicTacToe_game.pdb
+C:\Users\serga\Desktop\TicTocToe-master\TicTacToe_game\bin\Debug\TicTacToe_game.exe.config
+C:\Users\serga\Desktop\TicTocToe-master\TicTacToe_game\bin\Debug\TicTacToe_game.exe
+C:\Users\serga\Desktop\TicTocToe-master\TicTacToe_game\bin\Debug\TicTacToe_game.pdb
+C:\Users\serga\Desktop\TicTocToe-master\TicTacToe_game\obj\Debug\TicTacToe_game.Form1.resources
