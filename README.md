@@ -20,4 +20,4 @@ Nolic crosses are a logical game between two opponents on a square field of 3 by
 
 Usually, at the end of the game, the winning side draws a trait of its three signs (noma or cross), which make up a solid row.  
 
-: link: There are menus where you can start the game, exit the application and learn about help.:link:    
+:link: There are menus where you can start the game, exit the application and learn about help.:link:    
